@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATTLAND</Machine>
+    <WindowsUser>Mathew</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8eb64e53-7c8c-4929-a394-d9e7afba8b5d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Mathew</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>8BBDC93A90EDF64F729402CE43F01487198537EB955DDAF2A29E1954697A282F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8eb64e53-7c8c-4929-a394-d9e7afba8b5d_1.0.0.0_neutral__a0d32c8aqpzd8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8eb64e53-7c8c-4929-a394-d9e7afba8b5d_a0d32c8aqpzd8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8eb64e53-7c8c-4929-a394-d9e7afba8b5d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mathew</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-11T12:28:37.172</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\bin\Debug\30015379_DWA_Project.exe">
+      <PackagePath>30015379_DWA_Project.exe</PackagePath>
+      <Modified>2016-07-11T13:10:36.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\allegro.jpg">
+      <PackagePath>Assets\allegro.jpg</PackagePath>
+      <Modified>2016-07-11T09:30:10.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\artscentre.jpg">
+      <PackagePath>Assets\artscentre.jpg</PackagePath>
+      <Modified>2016-07-11T06:42:28.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\artusi.jpg">
+      <PackagePath>Assets\artusi.jpg</PackagePath>
+      <Modified>2016-07-11T09:33:37.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\capitoltheatre.jpg">
+      <PackagePath>Assets\capitoltheatre.jpg</PackagePath>
+      <Modified>2016-07-11T06:34:48.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\filmfestival.jpg">
+      <PackagePath>Assets\filmfestival.jpg</PackagePath>
+      <Modified>2016-07-11T05:49:41.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\fireworks.jpg">
+      <PackagePath>Assets\fireworks.jpg</PackagePath>
+      <Modified>2016-07-10T07:51:55.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\flemington.jpg">
+      <PackagePath>Assets\flemington.jpg</PackagePath>
+      <Modified>2016-07-11T06:44:30.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\food.jpg">
+      <PackagePath>Assets\food.jpg</PackagePath>
+      <Modified>2016-07-10T07:25:02.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\governmenthouse.jpg">
+      <PackagePath>Assets\governmenthouse.jpg</PackagePath>
+      <Modified>2016-07-11T07:32:47.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\harrys.jpg">
+      <PackagePath>Assets\harrys.jpg</PackagePath>
+      <Modified>2016-07-11T09:43:56.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\historic.jpg">
+      <PackagePath>Assets\historic.jpg</PackagePath>
+      <Modified>2016-07-10T07:23:54.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\horserace.jpg">
+      <PackagePath>Assets\horserace.jpg</PackagePath>
+      <Modified>2016-07-10T07:28:56.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\mathilda.jpg">
+      <PackagePath>Assets\mathilda.jpg</PackagePath>
+      <Modified>2016-07-11T05:29:39.573</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\mcg.jpg">
+      <PackagePath>Assets\mcg.jpg</PackagePath>
+      <Modified>2016-07-11T08:35:05.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\melbourne_tram.jpg">
+      <PackagePath>Assets\melbourne_tram.jpg</PackagePath>
+      <Modified>2016-07-10T07:19:16.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\omnom.jpg">
+      <PackagePath>Assets\omnom.jpg</PackagePath>
+      <Modified>2016-07-11T09:46:31.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\peruvian.jpg">
+      <PackagePath>Assets\peruvian.jpg</PackagePath>
+      <Modified>2016-07-11T05:22:31.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\rememberance.jpg">
+      <PackagePath>Assets\rememberance.jpg</PackagePath>
+      <Modified>2016-07-11T09:08:39.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\scooner.jpg">
+      <PackagePath>Assets\scooner.jpg</PackagePath>
+      <Modified>2016-07-11T08:41:59.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\treasury.jpg">
+      <PackagePath>Assets\treasury.jpg</PackagePath>
+      <Modified>2016-07-11T08:53:04.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2016-07-11T09:49:31.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T12:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T12:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T12:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T12:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-07-06T12:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-07-06T12:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-07-06T12:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\bin\Debug\30015379_DWA_Project.xr.xml">
+      <PackagePath>30015379_DWA_Project.xr.xml</PackagePath>
+      <Modified>2016-07-11T12:28:36.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-07-08T08:11:38.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2016-07-11T13:05:01.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2016-07-11T13:05:01.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+      <Modified>2016-07-11T13:05:01.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\bin\Debug\SearchResultsPage1.xbf">
+      <PackagePath>SearchResultsPage1.xbf</PackagePath>
+      <Modified>2016-07-11T13:05:01.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mathew\documents\visual studio 2015\Projects\30015379_DWA_Project\30015379_DWA_Project\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-11T12:28:36.950</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

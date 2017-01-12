@@ -1,0 +1,168 @@
+﻿{
+  "Groups": [
+    {
+      "UniqueId": "Group-1",
+      "Title": "Melbourne Events",
+      "Subtitle": "Events Around Melbourne",
+      "ImagePath": "Assets/horserace.jpg",
+      "Description": "Take a look at what's going on around the city of Melbourne",
+      "Items": [
+        {
+          "UniqueId": "Group-1-Item-1",
+          "Title": "Docklands Winter Fireworks",
+          "Subtitle": "A fireworks display for the whole family",
+          "ImagePath": "Assets/fireworks.jpg",
+          "Description": "Docklands Winter Fireworks Display",
+          "Content": "Start your weekend with a spectacular light show during July and August with the free Friday night fireworks over Docklands. Arrive early or stay late to enjoy sparkling entertainment set to delight kids big and small, from live music to roving performers.\n\nLocation\nDocklands Waterfront\nDocklands VIC 3008\n\nDates and times 01/07/2016 to 26/08/2016 \n\nFri: 6.30pm to 8.30pm \n\nFireworks commence 7.30pm\n\nPrice\nThis is a free event\n\nBookings\nNot required"
+        },
+        {
+          "UniqueId": "Group-1-Item-2",
+          "Title": "2016 Melbourne Peruvian Festival",
+          "Subtitle": "Come see the sights of Peru, right here in Melbourne",
+          "ImagePath": "Assets/peruvian.jpg",
+          "Description": "A celebration of the culture of Peru",
+          "Content": "Take a trip to Peru, the mysterious land of the Incas, vibrant music and dance, and enjoy a huge selection of traditional cuisine at the 2016 Melbourne Peruvian Festival.\n\nThere will be pisco sour demonstrations and tastings, carnival rides for young and old, traditional dance shows performed by some of the best dance groups in Melbourne, and the fabulous Salon Elegance Spiegeltent will be filled with live entertainment, music, bands and dancing. \n\nLocation\nMelbourne Star Observation Wheel\n101 Waterfront Way\nDocklands VIC 3008\n\nDates and times\n16/07/2016\n\nSat: noon to 11pm\n\nPrice\nThis is a free event"
+        },
+        {
+          "UniqueId": "Group-1-Item-3",
+          "Title": "Matilda the Musical",
+          "Subtitle": "See the book brought to the stage",
+          "ImagePath": "Assets/mathilda.jpg",
+          "Description": "Mathilda, beloved book and multi-award winning movie, now on stage",
+          "Content": "Matilda the Musical is the multi-award winning musical from the Royal Shakespeare Company, inspired by the twisted genius of Roald Dahl. With book by Dennis Kelly and original songs by Tim Minchin, Matilda the Musical is the story of an extraordinary girl who, armed with a vivid imagination and a sharp mind, dares to take a stand and change her own destiny. \n\nWinner of 50 major international awards, including 12 for Best Musical, Matilda continues to delight audiences both in London and on Broadway.\n\nLocation\nPrincess Theatre\n163-181 Spring Street\nMelbourne VIC 3000\n\nContact details\n1300 723 038\nmatildathemusical.com.au\n\nDates and times\n13/03/2016 to 09/10/2016\n\nTue: 7.30pm to 10.15pm\nWed: 1pm to 3.45pm, 7.30pm to 10.15pm\nFri: 7.30pm to 10.15pm\nSat: 2pm to 4.45pm, 7.30pm to 10.15pm\nSun: 1pm to 3.45pm, 6.30pm to 9.15pm\n\nBookings\n1300 723 038"
+        },
+        {
+          "UniqueId": "Group-1-Item-4",
+          "Title": "Melbourne International Film Festival",
+          "Subtitle": "See international premieres, red carpet glamour and the best global cinema",
+          "ImagePath": "Assets/filmfestival.jpg",
+          "Description": "The Melbourne International Film Festival (MIFF) is a film-lover's paradise",
+          "Content": "Established in 1952, the Melbourne International Film Festival (MIFF) is one of the oldest film festivals in the world and the most significant screen event in Australia. An iconic Melbourne event, the festival takes place annually in the heart of the city, presenting an acclaimed screening program alongside industry and celebratory events.\n\nMIFF showcases the best in current cinema from around the world, as well as retrospectives, tributes and discussion programs. Since its inception, MIFF has also been committed to local film: it is Australia's largest showcase of new Australian cinema, and the country's most vocal champion of emerging and established local film-making talent. The festival also hosts many celebratory world premieres of local films\n\nLocation\nForum Theatre\n150-162 Flinders Street\nMelbourne VIC 3000\n\nContact details\n03 8660 4888\nmiff@miff.com.au\nwww.miff.com.au\n\nDates and times\n28/07/2016 to 14/08/2016\n\nMon: all day\nTue: all day\nWed: all day\nThu: all day\nFri: all day\nSat: all day\nSun: all day\n\nPrice\nFor individual ticket prices, eMini Passes, MIFF Membership and other ticketing options, check the website or call the Box Office.\n\nBookings\nYes\n03 8660 4888"
+        }
+      ]
+    },
+    {
+      "UniqueId": "Group-2",
+      "Title": "Melbourne Sightseeing",
+      "Subtitle": "Sights of Melbourne",
+      "ImagePath": "Assets/melbourne_tram.jpg",
+      "Description": "See the wonderful sights that Melbourne has to offer",
+      "Items": [
+        {
+          "UniqueId": "Group-2-Item-1",
+          "Title": "Capitol Theatre",
+          "Subtitle": "Visit the renown Capitol Theatre",
+          "ImagePath": "Assets/capitoltheatre.jpg",
+          "Description": "An extraordinary cinema, with ceilings indirectly lit in four colours, the Capitol Theatre was designed by Walter Burley Griffin and Marion Mahony Griffin",
+          "Content": "The cinema opened in 1924, and the dramatic lighting was used in conjunction with the orchestral scores during the early silent film era. It added drama for the filmgoer, and remains a spectacular sight today. \n\nUnfortunately, movies are now only rarely screened at this iconic cinema. The fabulous site was bought by RMIT University in 1999, and a refurbishment program is under way.\nThe theatre seats 600 and is currently used for lectures, festivals and events for both RMIT and the Melbourne public.\n\nLocation\nLevel 1\n115 Swanston Street\nMelbourne VIC 3000\n\nContact details\nPhone: 9650 4017"
+        },
+        {
+          "UniqueId": "Group-2-Item-2",
+          "Title": "Arts Centre Melbourne",
+          "Subtitle": "One of Australia's biggest and busiest performing arts venues",
+          "ImagePath": "Assets/artscentre.jpg",
+          "Description": "With an array of venues under its spire, the Arts Centre is the flagship of the performing arts in Victoria and focal point of the cultural precinct.",
+          "Content": "Australia's largest and busiest performing arts venues, the Arts Centre stages more than 4400 performances and public events at its three venues: the Theatres Building, hosting the State Theatre, Playhouse and Fairfax Studio; the Hamer Hall concert venue; and the Sidney Myer Music Bowl.\n\nArts Centre Melbourne is host and partner to national and state companies such as Opera Australia, the Australian Ballet, Melbourne Theatre Company, Melbourne Symphony Orchestra, Australian Chamber Orchestra, Victorian Opera, Sydney Dance Company and Bangarra Dance Theatre. The centre also operates the largest performing arts learning and participation program in Australia.\n\nThe large Performing Arts Collection houses an important collection of items documenting nearly 200 years of performance in Australia across theatre, music, dance, circus and opera.\n\nA visit to Arts Centre Melbourne doesn't stop at the stage, with guided tours, the foyers' art collections, a Sunday crafts market and a range of on-site restaurants and bars enticing visitors to stay a while.\n\nLocation\n100 St Kilda Road\nMelbourne VIC 3004\n\nContact details\nPhone: 9281 8000\nartscentremelbourne.com.au"
+        },
+        {
+          "UniqueId": "Group-2-Item-3",
+          "Title": "Flemington Racecourse",
+          "Subtitle": "Home to the Australia Cup, the race that stops the nation",
+          "ImagePath": "Assets/flemington.jpg",
+          "Description": "One of the most famous racecources in Australia",
+          "Content": "A National Heritage listed site, the first race meeting held here took place on rough river flats beside the Maribyrnong River in March 1840, when Melbourne was barely five years old. It wasn’t the very first documented horse race in Melbourne – that took place at a site near today’s Southern Cross Station, in March 1838.\n\nFlemington is synonymous with Australia’s premier horse race, the Melbourne Cup, run here on the first Tuesday in November since 1861.\n\nAs well as the horses and the fashions of the Spring Racing Carnival, it's worth heading out to Flemington any time of the year to admire the landscaped gardens, including the largest public rose garden in the Southern Hemisphere.\n\nTake a walking tour and visit the Flemington Heritage Centre, a multimedia experience including artefacts from the Club's archival collection that brings to life the history, drama, fashion and excitement of racing at Flemington.\n\nLocation\nFlemington Drive \n428-550 Epsom Road \nFlemington VIC 3031\n\nContact details\nMobile: 1300 727 575\ncustomerservice@vrc.net.au\nflemington.com.au\n\nOpening hours\n* Flemington Heritage Centre open Wednesdays only by appointment.\nTours run for approximately 1 hour.\nCustomer Service Centre open Mondey to Friday 9am to 5pm"
+        },
+        {
+          "UniqueId": "Group-2-Item-4",
+          "Title": "Melbourne Cricket Ground",
+          "Subtitle": "The birthplace of Test and One Day International cricket",
+          "ImagePath": "Assets/mcg.jpg",
+          "Description": "Home of the AFL Grand Final, and host to many other sporting events every year",
+          "Content": "Nothing can match the tradition and heritage of the Melbourne Cricket Ground (MCG). Regarded as Victoria's spiritual home of sport, the MCG is Australia's premier sporting stadium, with a seating capacity of 100,024.\n\nAs the largest stadium in the southern hemisphere, all eyes turn to the ’G when the AFL Grand Final is staged in late September, and on Boxing Day when the traditional cricket Test match commences.\n\nThe iconic stadium has hosted cricket games since 1853, played host to the Olympic Games in 1956, Commonwealth Games in 2006, and has seen many major events throughout Melbourne’s history. \n\nExplore the colosseum of Australian sport, and relive the unforgettable moments by spending a day visiting one of Melbourne’s most recognisable icons. Experience the spirit and character of the ground by taking a guided MCG tour, then discover what makes Australia such a great sporting country by visiting the National Sports Museum, home to the Australia’s largest sporting collection.\n\nLocation\n120 Brunton Avenue \nJolimont VIC 3002\n\nContact details\nPhone: 9657 8888\ncommunications@mcc.org.au\nwww.mcg.org.au"
+        }
+      ]
+    },
+    {
+      "UniqueId": "Group-3",
+      "Title": "Historical Melbourne",
+      "Subtitle": "The Historic Locations of Melbourne",
+      "ImagePath": "Assets/historic.jpg",
+      "Description": "Visit the historic locations of Melbourne, see what made it what it is today",
+      "Items": [
+        {
+          "UniqueId": "Group-3-Item-1",
+          "Title": "Government House",
+          "Subtitle": "A historic part of Melbourne's history",
+          "ImagePath": "Assets/governmenthouse.jpg",
+          "Description": "When Government House was completed in 1876, it was called the grandest house in Australia.",
+          "Content": "Built in Italianate style, its tower can be seen for miles. Government House is next to the Royal Botanic Gardens within the Kings Domain. It was the largest governor's residence in the former British Empire, and similar in design to Queen Victoria's palatial Osborne House on the Isle of Wight.\n\nThe contrast between Government House and the modest cottage of the first Governor, Charles Joseph La Trobe, can be seen by taking a joint tour of both properties, providing a tangible link between the city's early colonial days and Marvellous Melbourne of the 1880s.\n\nThe tour takes you to the grand Ballroom, State Dining Room and Billiard Room in Government House, then heads below stairs to visit significant outbuildings including the 19th-century kitchen and Hopetoun Stables.\n\nLocation\nTours from La Trobe's Cottage cnr Birdswood Avenue and Dallas Brooks Drive\nMelbourne VIC 3004\n\nContact details\nPhone: 8663 7260\nbookings@nattrust.com.au\nwww.nattrust.com.au\n\nOpening hours\nMon: 10am to noon\nThu: 10am to noon\nGuided tours depart from La Trobe's Cottage. Bookings essential.\nGovernment House is wheelchair accessible. La Trobe's Cottage is not wheelchair accessible."
+        },
+        {
+          "UniqueId": "Group-3-Item-2",
+          "Title": "Alma Doepel",
+          "Subtitle": "Historic Topsail Scooner",
+          "ImagePath": "Assets/scooner.jpg",
+          "Description": "Take a ride on the Alma Doepel",
+          "Content": "The Alma Doepel is a three masted topsail schooner. Australian built and operated she was first launched on 10 October 1903. Alma Doepel is run and operated by Sail & Adventure Limited a not-for-profit company established in 1976.\n\nLocation\nShed 2\nNorth Wharf Road\nDocklands VIC 3008\n\nContact details\nMobile: 0427 829 134\nadsc@almadoepel.com.au\nalmadoepel.com.au"
+        },
+        {
+          "UniqueId": "Group-3-Item-3",
+          "Title": "Old Treasury Building",
+          "Subtitle": "Holding the gold of the Gold Rush",
+          "ImagePath": "Assets/treasury.jpg",
+          "Description": "",
+          "Content": "Designed by 19-year-old architect JJ Clark, the Old Treasury Building was built to house the gold bullion discovered during Victoria’s 1850s gold rush.\n\nThe colony’s leaders worked from offices in the grand palazzo-style building until the 1870s, and the Old Treasury now houses a collection of rare historic documents from Public Record Office Victoria, highlighting key moments from Victoria’s history.\n\nA regular calendar of events and displays reflecting Melbourne’s history are held at the Old Treasury Building, including permanent and temporary exhibitions. Visit the vaults to see where the gold bullion was stored, and learn more about the gold era in the Built on Gold exhibition.\n\nLocation\n20-70 Spring Street\nEast Melbourne VIC 3002\n\nContact details\nPhone: 9651 2233\ninfo@oldtreasurybuilding.org.au\nwww.oldtreasurybuilding.org.au\n\nOpening hours\nMon: 10am – 4pm\nTue: 10am – 4pm\nWed: 10am – 4pm\nThu: 10am – 4pm\nFri: 10am – 4pm\nSun: 10am – 4pm"
+        },
+        {
+          "UniqueId": "Group-3-Item-4",
+          "Title": "Shrine of Rememberance",
+          "Subtitle": "Dedicated in 1934 to commemorate First World War veterans",
+          "ImagePath": "Assets/rememberance.jpg",
+          "Description": "",
+          "Content": "Dedicated in 1934 to commemorate First World War veterans, the Shrine of Remembrance includes memorials to other conflicts, including the Second World War.\n\nThe Shrine is a Melbourne icon and an especially poignant location to commemorate Anzac Day, when a dawn service and wreath-laying ceremony are held. \n\nGuided tours run from the visitor centre daily at 11am and 2pm, and Services of Remembrance are held every half-hour beginning at 10.30am. During the service, a ray of light illuminates the word ‘love’ on the Stone of Remembrance embedded below the Sanctuary’s marble floor. The Sanctuary was specially designed so that a ray of sunlight would strike the word ‘love’ at 11am on 11 November to commemorate the Armistice that ended the First World War.\n\nThe Shrine hosts a program of permanent and temporary exhibitions, telling the stories of those at home and abroad during wartime. The Galleries of Remembrance in the undercroft beneath the Shrine feature over 850 objects that illustrate the experiences of Australians at war and in peacekeeping operations, from pre-Federation to the present day.\n\nLocation\nSt Kilda Road \nMelbourne VIC 3004\n\nContact details\nPhone: 9661 8100\nreception@shrine.org.au\nwww.shrine.org.au\n\nOpening hours\nMon: 10am – 5pm\nTue: 10am – 5pm\nWed: 10am – 5pm\nThu: 10am – 5pm\nFri: 10am – 5pm\nSat: 10am – 5pm\nSun: 10am – 5pm\nPublic Holidays: 10am – 5pm\n\n* 9am for school bookings\n\n* Closed Christmas Day and Good Friday\n\n* Guided Tours: 11am and 2pm daily\nLast admission to the Galleries of Remembrance is 4.30pm"
+        }
+      ]
+    },
+    {
+      "UniqueId": "Group-4",
+      "Title": "Food of Melbourne",
+      "Subtitle": "The wonderful tastes of Melbourne",
+      "ImagePath": "Assets/food.jpg",
+      "Description": "Smell and tastes the delightful delicacies that can be found around Melbourne",
+      "Items": [
+        {
+          "UniqueId": "Group-4-Item-1",
+          "Title": "Allegro Restaurant",
+          "Subtitle": "Enjoy modern Australian cuisine from a seasonal menu incorporating local produce, served alongside a robust wine list.",
+          "ImagePath": "Assets/allegro.jpg",
+          "Description": "",
+          "Content": "Allegro offers a stylish yet laid-back experience. Located on the first floor of The Westin Melbourne hotel, it features an open kitchen and commanding views over the City Square and the tree tops on Collins Street.\n\nThe elegant Wine Room seats up to 40 guests for private functions and celebrations. It is surrounded by wine racks, with floor-to-ceiling windows overlooking the outdoor terrace.\n\nLocation\nLevel 1\nThe Westin Melbourne\n205 Collins Street \nMelbourne VIC 3000\n\nContact details\nPhone: 9635 2222\nallegro@westin.com\nallegrorestaurant.com.au\n\nOpening hours\nMon: 6.30am – late\nTue: 6.30am – late\nWed: 6.30am – late\nThu: 6.30am – late\nFri: 6.30am – late\nSat: 6.30am – late\nSun: 6.30am – late\n\n* Breakfast is served until 11am on weekends, to 10.30am on weekdays. Lunch is served daily from 12 noon, dinner from 5.30pm.\n\n* Available for functions. Open all year round. Set menus available.\n\nCuisine\nModern Australian, International\n\nPrice range\nMains from $20 to $40\n\nFeatures\nChild Friendly\nFunction Space \nOutdoor Seating"
+        },
+        {
+          "UniqueId": "Group-4-Item-2",
+          "Title": "Artusi",
+          "Subtitle": "Artusi is a modern Italian wine bar and restaurant, serving authentic Italian tapas",
+          "ImagePath": "Assets/artusi.jpg",
+          "Description": "",
+          "Content": "Renowned for simplicity, authenticity and quality, Artusi caters for up to 150 people. Large bay windows provide glorious views of the city, by day or by night.\n\nThe extensive Italian and European menu features artisan handmade pastas and a mouth-watering selection of delicacies and organic produce. Examples include whole roasted duck, wood fired suckling pig, corn fed spatchcock and char grilled angus sirloin steak.\n\nThe boutique wine list offers Prosecco by the glass, Grenache, Sangiovese and other Italian varieties. There is also an extensive choice of accompanying champagnes (Veuve Clicquot, Bollinger, Pol Roger), digestivi, cocktails and local wines (Heathcote, Brown Brothers).\n\nLocation\nSouthgate\nShop UR1, Upper Level\n3 Southgate Ave\nSouthbank VIC 3006\n\nContact details\nPhone: 8199 1033\nadmin@artusi.net.au\nartusimelbourne.com.au\n\nOpening hours\nMon: noon – late\nTue: noon – late\nWed: noon – late\nThu: noon – late\nFri: noon – late\nSat: noon – late\nSun: noon – late\n\n* Open daily for lunch, pre-theatre, dinner and supper\n\nCuisine\nItalian\n\nPrice range\nMains over $40"
+        },
+        {
+          "UniqueId": "Group-4-Item-3",
+          "Title": "Harry's Restaurant & Bar",
+          "Subtitle": "Harry’s Restaurant showcases the freshest local produce and wines in a relaxed environment with affordable yet international standard hotel cuisine.",
+          "ImagePath": "Assets/harrys.jpg",
+          "Description": "",
+          "Content": "Step from the laneway into old-world charm of the Stamford Plaza, and enjoy the dinner menu with its variety of regionally-inspired dishes and combination of classical French and European influences. Savour the impressive wine selection in the restaurant or unwind with a cocktail in the grandeur of the bar. \nWith seating for up to 100 people the venue also lends itself to corporate functions and private cocktail events.\nHarry's Restaurant is open daily for breakfast, lunch and dinner (please phone ahead as this is can be subject to change).\n\nLocation\n111 Little Collins Street\nMelbourne VIC 3000\n\nContact details\nPhone: 9659 1592\nharrys@spm.stamford.com.au\n\nOpening hours\nMon: 6.30am – late\nTue: 6.30am – late\nWed: 6.30am – late\nThu: 6.30am – late\nFri: 6.30am – late\nSat: 6.30am – late\nSun: 6.30am – late\n\n* Reservations are recommended. Opening times are subject to change.\n\nCuisine\nModern Australian, European, Breakfast\n\nPrice range\nMains from $20 to $40\n\nPayment method accepted\nCash \nEFTPOS \nAll major cards "
+        },
+        {
+          "UniqueId": "Group-4-Item-4",
+          "Title": "Om Nom",
+          "Subtitle": "Delicious and artistic desserts",
+          "ImagePath": "Assets/omnom.jpg",
+          "Description": "",
+          "Content": "Within the iconic Adelphi Hotel, Om Nom is the perfect place to experience desserts that look like pieces of art and taste delicious. Om Nom aims to amaze each and every guest with an extraordinary menu – which also includes savoury dishes. \n\nOm Nom’s chef, Christy Tania, has worked at famed restaurants including Vue de Monde and Jacques Reymond. Christy puts to work her incredible skills to create magical culinary works of art.\n\nLocation\n187 Flinders Lane\nMelbourne VIC 3000\n\nContact details\nPhone: 8080 8827\nomnom@adelphi.com.au\nomnom.kitchen\n\nOpening hours\nMon: 7am – 10.30pm\nTue: 7am – 10.30pm\nWed: 7am – 10.30pm\nThu: 7am – 10.30pm\nFri: 7am – midnight\nSat: 7am – midnight\nSun: 7am – 10.30pm\n\n* Breakfast: 7am – midday \n\nDinner & desserts: 6pm – 12am\n\nCuisine\nDessert\n\nPayment method accepted\nEFTPOS \nAll major cards \nCash"
+        }
+      ]
+    } 
+  ]
+}

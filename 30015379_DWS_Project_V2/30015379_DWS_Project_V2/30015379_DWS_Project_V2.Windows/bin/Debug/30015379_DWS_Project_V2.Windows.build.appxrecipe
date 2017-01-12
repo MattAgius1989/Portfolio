@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATTLAND</Machine>
+    <WindowsUser>Mathew</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>af43d684-e259-476c-9d71-5cd772358373</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Mathew</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\bin\Debug\30015379_DWS_Project_V2.Windows.exe">
+      <PackagePath>30015379_DWS_Project_V2.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\BackgroundTask\bin\Debug\BackgroundTask.winmd">
+      <PackagePath>BackgroundTask.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\bin\Debug\30015379_DWS_Project_V2.Windows.xr.xml">
+      <PackagePath>30015379_DWS_Project_V2.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\bin\Debug\Camera.xbf">
+      <PackagePath>Camera.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\bin\Debug\FolderPage.xbf">
+      <PackagePath>FolderPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\bin\Debug\PhotoPage.xbf">
+      <PackagePath>PhotoPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\bin\Debug\ViewPage.xbf">
+      <PackagePath>ViewPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mathew\Documents\Visual Studio 2015\Projects\30015379_DWS_Project_V2\30015379_DWS_Project_V2\30015379_DWS_Project_V2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

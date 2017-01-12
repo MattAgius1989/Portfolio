@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\mathew\documents\visual studio 2015\projects\30015379_dwa_project\30015379_dwa_project\obj\x64\debug\intermediatexaml\30015379_dwa_project.exe" HashGuid="d9e37037-666c-a6ee-ee66-4182f5915b25" />
+    <ReferenceAssembly PathName="c:\users\mathew\appdata\local\microsoft sdks\windows\v8.1\extensionsdks\bing.maps.xaml\1.313.0825.0\references\commonconfiguration\neutral\bing.maps.winmd" HashGuid="dcdce9e5-521a-6d20-3956-9df814dff813" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\mathew\documents\visual studio 2015\projects\30015379_dwa_project\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

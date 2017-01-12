@@ -1,0 +1,9 @@
+c:\users\pc meal user\documents\visual studio 2013\Projects\SkillStore Project\SkillStore Project\bin\Debug\SkillStore Project.exe.config
+c:\users\pc meal user\documents\visual studio 2013\Projects\SkillStore Project\SkillStore Project\bin\Debug\SkillStore Project.exe
+c:\users\pc meal user\documents\visual studio 2013\Projects\SkillStore Project\SkillStore Project\bin\Debug\SkillStore Project.pdb
+c:\users\pc meal user\documents\visual studio 2013\Projects\SkillStore Project\SkillStore Project\obj\Debug\SkillStore Project.csprojResolveAssemblyReference.cache
+c:\users\pc meal user\documents\visual studio 2013\Projects\SkillStore Project\SkillStore Project\obj\Debug\SkillStore_Project.frmViewDetails.resources
+c:\users\pc meal user\documents\visual studio 2013\Projects\SkillStore Project\SkillStore Project\obj\Debug\SkillStore_Project.Properties.Resources.resources
+c:\users\pc meal user\documents\visual studio 2013\Projects\SkillStore Project\SkillStore Project\obj\Debug\SkillStore Project.csproj.GenerateResource.Cache
+c:\users\pc meal user\documents\visual studio 2013\Projects\SkillStore Project\SkillStore Project\obj\Debug\SkillStore Project.exe
+c:\users\pc meal user\documents\visual studio 2013\Projects\SkillStore Project\SkillStore Project\obj\Debug\SkillStore Project.pdb

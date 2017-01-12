@@ -1,0 +1,15 @@
+﻿<Application
+    x:Class="_30015379_DWA_Project.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_30015379_DWA_Project"
+    xmlns:localData="using:_30015379_DWA_Project.Data" RequestedTheme="Dark">
+
+    <Application.Resources>
+
+        <!-- Application-specific resources -->
+
+        <x:String x:Key="AppName">_30015379_DWA_Project</x:String>
+
+    </Application.Resources>
+</Application>

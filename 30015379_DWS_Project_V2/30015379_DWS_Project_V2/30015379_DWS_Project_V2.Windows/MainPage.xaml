@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="_30015379_DWS_Project.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_30015379_DWS_Project"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF252525" Loaded="Grid_Loaded">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid Background="#FF602A7F">
+            <TextBlock x:Name="appName" Text="Viewer Photo Log" Style="{StaticResource HeaderTextBlockStyle}" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="30,0,0,40" Foreground="White"/>
+        </Grid >
+        <Button x:Name="button" Content="Camera" HorizontalAlignment="Left" Margin="207,257,0,0" VerticalAlignment="Top" Height="100" Width="250" Click="goToCamera" Background="#FF283351" BorderBrush="Black" Grid.Row="1" Foreground="White"/>
+        <Button x:Name="button1" Content="Background Services" HorizontalAlignment="Left" Margin="542,257,0,0" VerticalAlignment="Top" Width="250" Height="100" Click="executeBackgroundServices" Background="#FF283351" BorderBrush="Black" Grid.Row="1" Foreground="White"/>
+        <Button x:Name="button2" Content="Create Album" HorizontalAlignment="Left" Margin="908,257,0,0" VerticalAlignment="Top" Width="250" Height="100" Click="goToCreateAlbum" Background="#FF283351" BorderBrush="Black" Grid.Row="1" Foreground="White"/>
+    </Grid>
+</Page>

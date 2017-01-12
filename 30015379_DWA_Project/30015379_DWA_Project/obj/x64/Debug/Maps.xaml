@@ -1,0 +1,63 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="_30015379_DWA_Project.Maps"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_30015379_DWA_Project"
+    xmlns:common="using:_30015379_DWA_Project.Common"
+    xmlns:bm="using:Bing.Maps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">My Application</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" Margin="39,59,39,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button"/>
+            <TextBlock x:Name="pageTitle" Foreground="#FFEA6413" Text="Directions" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
+            <Border Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="599,0,242,0" Width="376">
+            </Border>
+        </Grid>
+        <bm:Map x:ConnectionId='1' x:Name="MyMap" Margin="85,35,86,205" Credentials="OR29En2Jl2GSLBLMnv3l~FYc0fOi0dZenpENs7n3z5g~Anl3c2gHq_UVd3NfCSpnfZuWh2Z2_D29cHAkZoDgdQjGHcgEg66rSidnTngg0hFW" ZoomLevel="10" HorizontalAlignment="Center" VerticalAlignment="Center" Height="388" Width="1195"                                 Grid.Row="1">
+            <bm:Map.Center>
+                <bm:Location Latitude="-37.8136" Longitude="144.9631"/>
+            </bm:Map.Center>
+        </bm:Map>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Height="94" Margin="238,500,237,34">
+            <TextBox Name="Coordinatesbox" FontSize="24" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text="" Background="Black" Grid.Row="1" TextAlignment="Center" Width="377" Height="95" IsReadOnly="True" TextWrapping="Wrap "/>
+        </StackPanel>
+        <Button x:ConnectionId='2' x:Name="Remove_Pins" Content="Remove Pins" HorizontalAlignment="Left" Margin="1189,40,0,0" VerticalAlignment="Top"                          />
+    </Grid>
+</Page>
+
